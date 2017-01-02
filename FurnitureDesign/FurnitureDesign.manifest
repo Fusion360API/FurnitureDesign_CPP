@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Autodesk",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"8878cac1-fd78-48d6-bf9f-20e1442faa54",
+	"version":	"0.0.1",
+	"runOnStartup":	false,
+	"sourcewindows":	"FurnitureDesign.vcxproj",
+	"sourcemac":	"FurnitureDesign.xcodeproj"
+}
